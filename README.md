@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismet BALAT</h1>
+<h1 align="center">Twitter Unlike Bot</h1>
 <h3 align="left">Twitter Unlike bot use Twitter API v2 and OAuth 2.0 Authorization Code Flow with PKCE. It unlike your liked tweets. </h3>
 
 <p>Please, visit for more details: <a href="https://kerteriz.net/python-twitter-api-tweet-like-gecmisini-temizleme/">kerteriz.net/python-twitter-api-tweet-like-gecmisini-temizleme/</a></p>
